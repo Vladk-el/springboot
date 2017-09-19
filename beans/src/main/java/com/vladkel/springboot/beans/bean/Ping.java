@@ -9,4 +9,5 @@ public class Ping {
     public Ping() {
         ping = new Date();
     }
+
 }

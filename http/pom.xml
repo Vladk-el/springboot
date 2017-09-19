@@ -14,7 +14,7 @@
     <dependencies>
         <dependency>
             <groupId>com.vladkel.springboot</groupId>
-            <artifactId>beans</artifactId>
+            <artifactId>service</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
